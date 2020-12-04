@@ -1,0 +1,19 @@
+.background-menu {
+    background-color: black;
+}
+
+.hoi {
+    background-image: url(focusy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+}
+
+.hoi1 {
+    background-image: url(state.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98%;
+    height: 80vh;
+}
