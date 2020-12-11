@@ -40,3 +40,12 @@
 .background-menu {
     background-color: black;
 }
+
+#menu {
+    position: fixed;
+    z-index: 10;
+}
+
+.maring {
+    padding-top: 3%;
+}

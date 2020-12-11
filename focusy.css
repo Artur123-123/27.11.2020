@@ -17,3 +17,8 @@
     width: 98%;
     height: 80vh;
 }
+
+#menu {
+    position: fixed;
+    z-index: 10;
+}
